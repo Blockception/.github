@@ -1,0 +1,83 @@
+# Changelog
+## Plugin
+- Updated
+- 2.1.46
+- 2.1.45
+- 2.1.44
+- Moved dialogue command
+- Updated
+- 2.1.43
+- tripWire -> tripwrite
+- 2.1.42
+- Added setmaxplayers
+- 2.1.41
+- Updating template
+- 2.1.40
+- Updated schemas
+- Updated
+- Updated
+- 2.1.39
+- 2.1.38
+- 2.1.37
+- Updated
+- 2.1.36
+- Fixed
+- Updated
+- 2.1.35
+- Updated dialogue command
+- Updated schemas with new dialogue
+- 2.1.34
+- Fixing vscode uri problems
+- 2.1.33
+- Revert "Updated"
+- 2.1.32
+- Updated
+- Updated schemas
+- 2.1.31
+- Updated schemas
+- Updated
+- 2.1.30
+- 2.1.29
+- Updated
+- Fixing. 
+## Schemas
+- UPdated
+- Fixing
+- Fixing
+- Updated
+- Updated dialogue schema to fit microsoft documentation
+- Fixing
+- Updated
+- fixing on_damage
+- Updated
+- Updated
+- Updated
+- Formatted text
+- Updated
+- Updatedf
+- Updated spawn rules comments
+- Updated comments
+- Updated
+- Updated
+- Updated
+- Updating
+- Updated
+- Fixed
+- Updated references
+- Updated
+- Updated entities
+- Updated
+- Updated
+- Added comments
+- Updated
+- Updated components documentation
+- Updated comments
+- Updated documentation with the microsoft documentation
+- Updated Tiltes
+- Updated
+- Updated
+- Updated
+- fixed json
+- Updated Comments
+- Updated comments
+- Updated titles
