@@ -1,0 +1,10 @@
+{
+  "name": "Blockception npm publish workflow",
+  "description": "Blockception npm publish workflow to npmjs.",
+  "iconName": "example-icon",
+  "categories": [ "npm", "unit testing" ],
+  "filePatterns": [
+    "package.json$",
+    ".*\\.ts$"
+  ]
+}
