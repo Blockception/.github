@@ -1,7 +1,7 @@
 {
   "name": "Blockception npm test workflow",
   "description": "Blockception npm test.",
-  "iconName": "example-icon",
+  "iconName": "blockception",
   "categories": [ "npm", "unit testing" ],
   "filePatterns": [
     "package.json$",
