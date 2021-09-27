@@ -1,0 +1,11 @@
+{
+  "name": "Blockception action minecraft diagnose",
+  "description": "Blockception action minecraft diagnose.",
+  "iconName": "blockception",
+  "categories": [ "minecraft", "bedrock", "unit testing" ],
+  "filePatterns": [
+    ".mcdefinitions",
+    ".mcignore",
+    ".mcattribtues"
+  ]
+}
