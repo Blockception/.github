@@ -4,8 +4,8 @@
   "iconName": "blockception",
   "categories": [ "minecraft", "bedrock", "unit testing" ],
   "filePatterns": [
-    "**/*.mcdefinitions",
-    "**/*.mcignore",
-    "**/*.mcattribtues"
+    "\.mcdefinitions$",
+    "\.mcignore$",
+    "\.mcattribtues$"
   ]
 }
