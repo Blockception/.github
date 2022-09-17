@@ -1,3 +1,11 @@
+---
+name: Pull request template
+about: Merged your work into the repository
+title: 'Feature/'
+labels: 'enchanment'
+assignees: ''
+
+---
 # Pull request template
 
 
@@ -8,3 +16,9 @@
 ## Changes
 
 - All changes made.
+
+## Checklist
+
+- [ ] It can build
+- [ ] The test are passing
+- [ ] Code has been reviewed
