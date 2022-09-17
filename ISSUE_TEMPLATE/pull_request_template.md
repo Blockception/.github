@@ -1,11 +1,3 @@
----
-name: Pull request template
-about: Merged your work into the repository
-title: 'Feature/'
-labels: 'enchanment'
-assignees: ''
-
----
 # Pull request template
 
 
